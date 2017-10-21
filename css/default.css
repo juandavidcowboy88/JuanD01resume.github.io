@@ -32,13 +32,25 @@ a:hover {
 	color: #000;
 }
 
+
+.main,
 .container > header {
+	width: 90%;
+	max-width: 69em;
+	margin: 0 auto;
+	padding: 0 1.875em 3.125em 1.875em;
+}
+.container > header {
+	padding: 2.875em 1.875em 1.875em;
+}
+
+/*.container > header {
 	padding: 2.875em 1.875em 1.875em;
 	position: fixed;
 	z-index: 1000;
 	width: 60%;
 	left: 20%;
-}
+}*/
 
 .container > header h1 {
 	font-size: 2.125em;
@@ -70,7 +82,7 @@ a:hover {
 	border-radius: 50%;
 	color: transparent;
 	margin: 0 0.1em;
-	border: 4px solid #fff;
+	border: 4px solid #47a3da;
 	text-indent: -8000px;
 }
 
@@ -94,7 +106,7 @@ a:hover {
 	background: #47a3da;
 }
 
-.icon-drop:before, 
+.icon-drop:before,
 .icon-arrow-left:before {
 	font-family: 'fontawesome';
 	position: absolute;
@@ -123,4 +135,3 @@ a:hover {
 .icon-arrow-left:before {
 	content: "\f060";
 }
-
