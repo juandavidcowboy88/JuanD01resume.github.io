@@ -70,7 +70,9 @@ html, body,
 	background-image: url(../images/4.jpg);
 }
 
-
+#fbsection5 {
+	background-image: url(../images/5.jpg);
+}
 
 
  /*CSS para el generador de deslizador*/

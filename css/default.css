@@ -154,6 +154,78 @@ a:hover {
 	padding-left: 8px;
 }
 
+.icon-drop:before,
+.fa-facebook:before {
+	font-family: 'fontawesome';
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 2;
+	text-align: center;
+	color: #47a3da;
+	-webkit-font-smoothing: antialiased;
+	text-indent: 8000px;
+	padding-left: 8px;
+}
+
+.icon-drop:before,
+.fa-linkedin:before {
+	font-family: 'fontawesome';
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 2;
+	text-align: center;
+	color: #47a3da;
+	-webkit-font-smoothing: antialiased;
+	text-indent: 8000px;
+	padding-left: 8px;
+}
+
+.icon-drop:before,
+.fa-instagram:before {
+	font-family: 'fontawesome';
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 2;
+	text-align: center;
+	color: #47a3da;
+	-webkit-font-smoothing: antialiased;
+	text-indent: 8000px;
+	padding-left: 8px;
+}
+
+
+.icon-drop:before,
+.fa-github:before {
+	font-family: 'fontawesome';
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 2;
+	text-align: center;
+	color: #47a3da;
+	-webkit-font-smoothing: antialiased;
+	text-indent: 8000px;
+	padding-left: 8px;
+}
 .container > header nav a:hover:before {
 	color: #fff;
 }
@@ -161,6 +233,21 @@ a:hover {
 .icon-drop:before {
 	content: "\e000";
 }
+
+.icon-arrow-left:before {
+	content: "\f060";
+}
+
+
+.fa-github:before {
+	content: "\f060";
+}
+
+
+.icon-arrow-left:before {
+	content: "\f060";
+}
+
 
 .icon-arrow-left:before {
 	content: "\f060";
