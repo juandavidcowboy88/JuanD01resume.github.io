@@ -136,6 +136,15 @@ a:hover {
 	background: #47a3da;
 }
 
+.form {
+
+	border-color: white;
+	padding: 20px 20px 20px 20px;
+	border: 3px solid;
+}
+
+
+
 .icon-drop:before,
 .icon-arrow-left:before {
 	font-family: 'fontawesome';
